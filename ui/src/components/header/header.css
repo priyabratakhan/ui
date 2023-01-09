@@ -34,20 +34,20 @@ button{
 }
 
 .header1{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 50px;
     display: flex;
     justify-content: space-between;
 }
 
 .leftdot{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 50%;
 }
 
 .search{
     display: flex;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 50%;
 }
 

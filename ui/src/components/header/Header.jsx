@@ -24,7 +24,7 @@ const Header = () => {
         </div>
         <div className="search">
             <div className="searchbox">
-                <img src={searchb} />
+                <img src={searchb} alt="" />
                 <p>Search a Team | Topic</p>
             </div>
         </div>
